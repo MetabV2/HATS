@@ -1,0 +1,35 @@
+_G.Bin = true
+while _G.Bin do
+    wait()
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",3702659347)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",5830479411)
+
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",76063035)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",63650436)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",3963924540)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",5271644650)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",4771555241)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",26776790)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",253153774)
+
+
+game:GetService("ReplicatedStorage").RemoteEvents.U11pdateA11vatar:FireServer("wear",113329164)
+end
